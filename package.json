@@ -1,0 +1,27 @@
+{
+    "name": "new-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "serve": "webpack serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/katerina2018/new-project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/katerina2018/new-project/issues"
+    },
+    "homepage": "https://github.com/katerina2018/new-project#readme",
+    "devDependencies": {
+        "webpack": "^5.58.2",
+        "webpack-cli": "^4.9.1",
+        "webpack-dev-server": "^4.3.1"
+    }
+}
